@@ -16,4 +16,4 @@ run file [web.py](web.py) bằng streamlit
 streamlit run web.py
 ```
 
-upload data: 
+upload data:  
